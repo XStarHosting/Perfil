@@ -1,11 +1,7 @@
 <h1 align="center">XStar Hosting</a></h1>
 <h3 align="center">Hosting de calidad</h3>
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://i.imgur.com/KcuT3X1.png" alt="XStar" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.imgur.com/CMLzav2.gif">
-</a>
+<p align="left"> <a href="https://xstar.es" target="blank"><img width="80" height="80" src="https://i.imgur.com/KcuT3X1.png" alt="XStar" /></a> </p>
 
 - 😉 **Soporte 24/7**
 
